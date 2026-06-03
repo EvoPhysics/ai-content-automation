@@ -1,1 +1,110 @@
-IyBBSSBDb250ZW50IEF1dG9tYXRpb24KCj4g5LiA5ZGo56S+5aqS5YaF5a6577yM5py65Zmo5pu/5L2g5YaZ44CCIC8gQSBmdWxsIHdlZWsgb2Ygc29jaWFsIGNvbnRlbnQsIG9uIGF1dG9waWxvdC4KClshW0xpdmUgU2l0ZV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9MaXZlLWV2b3BoeXNpY3MuYWklMkZhaWNhLTdjM2FlZCldKGh0dHBzOi8vZXZvcGh5c2ljcy5haS9haWNhKQpbIVtMaWNlbnNlOiBNSVRdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvTGljZW5zZS1NSVQtYmx1ZS5zdmcpXShMSUNFTlNFKQpbIVtTdGFja10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9TdGFjay1IVE1MJTIwJTJCJTIwVmFuaWxsYSUyMENTUy1vcmFuZ2UpXSgjdGVjaC1zdGFjaykKCi0tLQoKIyMgRW5nbGlzaAoKIyMjIFdoYXQgaXMgdGhpcz8KCkEgc2luZ2xlLXBhZ2UgKipsYW5kaW5nIHNpdGUqKiBmb3IgYW4gQUktZHJpdmVuIGNvbnRlbnQgYXV0b21hdGlvbiBzZXJ2aWNlLgpUaGUgcHJvZHVjdCBpdHNlbGYgaXMgYSBzdWJzY3JpcHRpb24gdGhhdCBkZWxpdmVycyBhIGZ1bGwgd2VlayBvZiBzb2NpYWwgbWVkaWEKY29udGVudCAoVHdpdHRlci9YLCBMaW5rZWRJbiwgSW5zdGFncmFtKSBldmVyeSBNb25kYXkgbW9ybmluZyDigJQgZnVsbHkgd3JpdHRlbiwKZm9ybWF0dGVkLCBoYXNodGFnZ2VkLCBhbmQgcmVhZHkgdG8gc2NoZWR1bGUuCgpUaGlzIHJlcG8gY29udGFpbnMgb25seSB0aGUgbWFya2V0aW5nIHBhZ2UuIFRoZSBhY3R1YWwgY29udGVudCBnZW5lcmF0aW9uCnBpcGVsaW5lIGxpdmVzIGJlaGluZCB0aGUgc2NlbmVzIGFuZCBpcyBleHBvc2VkIHRvIGN1c3RvbWVycyB2aWEgZW1haWwgYW5kCldlQ2hhdCBhZnRlciBvbmJvYXJkaW5nLgoKIyMjIEZlYXR1cmVzCgotICoqV2Vla2x5IGRyb3AqKiDigJQgZXZlcnkgTW9uZGF5LCBhIGZ1bGwgd2VlayBvZiBwb3N0cyBsYW5kcyBpbiB5b3VyIGluYm94LgotICoqVGVtcGxhdGVkIHByb2R1Y3Rpb24qKiDigJQgY29udGVudCBpcyBnZW5lcmF0ZWQgZnJvbSBhIGN1cmF0ZWQgcHJvbXB0CiAgdGVtcGxhdGUgc3RhY2sgdHVuZWQgcGVyIG5pY2hlIGFuZCB2b2ljZSwgbm90IGdlbmVyaWMgQUkgc2xvcC4KLSAqKkNyb3NzLXBsYXRmb3JtIGZvcm1hdCoqIOKAlCBUd2l0dGVyL1gsIExpbmtlZEluLCBhbmQgSW5zdGFncmFtIHJlYWR5OwogIGVhY2ggcG9zdCBzaGlwcyB3aXRoIGhvb2ssIGJvZHksIGhhc2h0YWdzLCBhbmQgQ1RBLgotICoqQnVpbHQtaW4gY2FsZW5kYXIqKiDigJQgZGVsaXZlcmVkIGFzIGEgcGxhaW4gd2Vla2x5IGNhbGVuZGFyIHNvIHlvdSBjYW4KICBiYXRjaC1zY2hlZHVsZSBpbiAxMCBtaW51dGVzLgoKIyMjIFRlY2ggc3RhY2sKCi0gKipIVE1MNSoqIOKAlCBzaW5nbGUgZmlsZSwgc2VtYW50aWMgc3RydWN0dXJlLCBubyBidW5kbGVyLgotICoqVmFuaWxsYSBDU1MqKiDigJQgZW1iZWRkZWQgYDxzdHlsZT5gIGJsb2NrLCBkYXJrIHRoZW1lLCBubyBmcmFtZXdvcmsuCi0gKipObyBKYXZhU2NyaXB0Kiog4oCUIHN0YXRpYyBwYWdlLCB6ZXJvIHJ1bnRpbWUgZGVwZW5kZW5jaWVzLgotICoqTm8gYnVpbGQgc3RlcCoqIOKAlCB3aGF0IHlvdSBzZWUgaW4gYGluZGV4Lmh0bWxgIGlzIHdoYXQgZ2V0cyBkZXBsb3llZC4KCiMjIyBEZXBsb3ltZW50CgotIEhvc3RlZCBvbiAqKkNsb3VkZmxhcmUgUGFnZXMqKi4KLSBEaXJlY3QgdXBsb2FkIGZyb20gYG1haW5gIGJyYW5jaDsgbm8gQ0kgcmVxdWlyZWQuCi0gQ3VzdG9tIGRvbWFpbiBwb2ludHMgdG8gYSBwYXRoIHVuZGVyIHRoZSBFdm9QaHlzaWNzIHVtYnJlbGxhIHNpdGUuCgojIyMgUGFydCBvZiB0aGUgRXZvUGh5c2ljcyBjb250ZW50IG1hdHJpeAoKVGhpcyBsYW5kaW5nIHBhZ2UgaXMgYSBzdWItcHJvZHVjdCBvZiB0aGUKW0V2b1BoeXNpY3MgY29udGVudCBwbGF0Zm9ybV0oaHR0cHM6Ly9naXRodWIuY29tL0V2b1BoeXNpY3MvZXZvcGh5c2ljcy13ZWJzaXRlKS4KSXQgc2hhcmVzIHRoZSBkZXNpZ24gbGFuZ3VhZ2UgYW5kIGFuYWx5dGljcyBzdGFjayB3aXRoIHRoZSBwYXJlbnQgc2l0ZSwKYW5kIGZlZWRzIHF1YWxpZmllZCBsZWFkcyBpbnRvIHRoZSBFdm9QaHlzaWNzIHRvb2wgc3VpdGUuCgojIyMgTGljZW5zZQoKTUlUIOKAlCBzZWUgW0xJQ0VOU0VdKExJQ0VOU0UpLgoKLS0tCgojIyDkuK3mlocKCiMjIyDov5nmmK/ku4DkuYjvvJ8KCuS4gOS4qioq5Y2V6aG16JC95Zyw56uZKirvvIzkuLogQUkg5YaF5a656Ieq5Yqo5YyW5pyN5Yqh5YGa6ZSA5ZSu6L2s5YyW44CCCuS6p+WTgeacrOS9k+aYr+S4gOmhueiuoumYheacjeWKoe+8muavj+WRqOS4gOaXqeS4iu+8jOiHquWKqOaKiioq5LiA5ZGo55qE56S+5aqS5YaF5a65KioK77yIVHdpdHRlci9Y44CBTGlua2VkSW7jgIFJbnN0YWdyYW3vvInlhpnlpb3jgIHmoLzlvI/ljJbjgIHphY3lpb0gaGFzaHRhZ++8jArnm7TmjqXpgIHliLDnlKjmiLfpgq7nrrHjgIIKCui/meS4quS7k+W6k+WPquaJv+i9vSoq6ZSA5ZSu6aG1KirjgILnnJ/mraPnmoTlhoXlrrnnlJ/miJDmtYHmsLTnur/lnKjlkI7lj7DvvIwK6K6i6ZiF55So5oi36YCa6L+H6YKu5Lu2ICsg5b6u5L+hIG9uYm9hcmRpbmcg5o6l5YWl77yM55yL5LiN5Yiw5Luj56CB44CCCgojIyMg5Yqf6IO9CgotICoq5q+P5ZGo5LiA5oqV6YCSKiog4oCUIOS4gOiniemGkuadpe+8jOS4gOWRqCA3IOadoeWGheWuueW3sue7j+WcqOmCrueusemHjOOAggotICoq5qih5p2/5YyW55Sf5LqnKiog4oCUIOWfuuS6juaMieihjOS4miAvIOivreiwg+iwg+i/h+eahCBwcm9tcHQg5qih5p2/5qCI5om56YeP55Sf5oiQ77yMCiAg5LiN5pivIumAmueUqCBBSSDlj6PmsLTmloci44CCCi0gKirot6jlubPlj7DpgILphY0qKiDigJQgVHdpdHRlci9Y44CBTGlua2VkSW7jgIFJbnN0YWdyYW0g5LiA5qyh57uZ6b2Q77yMCiAg5q+P5p2h6YO95bimIGhvb2vjgIHmraPmlofjgIFoYXNodGFn44CBQ1RB44CCCi0gKiroh6rluKbml6XljoYqKiDigJQg5LulIuWRqOWOhiLlvaLlvI/kuqTku5jvvIwxMCDliIbpkp/mibnph4/mjpLnqIvjgIIKCiMjIyDmioDmnK/moIgKCi0gKipIVE1MNSoqIOKAlCDljZXmlofku7bvvIzor63kuYnljJbnu5PmnoTvvIzml6DmiZPljIXlt6XlhbfjgIIKLSAqKlZhbmlsbGEgQ1NTKiog4oCUIOWGheW1jCBgPHN0eWxlPmDvvIzmt7HoibLkuLvpopjvvIzml6Dku7vkvZUgQ1NTIOahhuaetuOAggotICoq6Zu2IEphdmFTY3JpcHQqKiDigJQg57qv6Z2Z5oCB6aG177yM6L+Q6KGM5pe26Zu25L6d6LWW44CCCi0gKirpm7bmnoTlu7rmraXpqqQqKiDigJQgYGluZGV4Lmh0bWxgIOmHjOWGmeS7gOS5iO+8jOmDqOe9suWHuuWOu+WwseaYr+S7gOS5iOOAggoKIyMjIOmDqOe9sgoKLSDmiZjnrqHlnKggKipDbG91ZGZsYXJlIFBhZ2VzKirjgIIKLSDnm7TmjqXku44gYG1haW5gIOWIhuaUr+aLieWPlu+8jOaXoOmcgCBDSeOAggotIOiHquWumuS5ieWfn+WQjeaMh+WQkSBFdm9QaHlzaWNzIOS4u+ermeS4i+eahOWtkOi3r+W+hOOAggoKIyMjIOWVhuS4muWMluWumuS9jQoK5pys6JC95Zyw56uZ5pivIFtFdm9QaHlzaWNzIOWGheWuueW5s+WPsF0oaHR0cHM6Ly9naXRodWIuY29tL0V2b1BoeXNpY3MvZXZvcGh5c2ljcy13ZWJzaXRlKQrml5fkuIsqKuWtkOS6p+WTgSoq5LmL5LiA77yM5LiO5Li756uZ5YWx55So6K6+6K6h6K+t6KiA5LiO5pWw5o2u5Z+L54K577yMCuW5tuaKiumrmOaEj+WQkee6v+e0ouWbnua1geWIsCBFdm9QaHlzaWNzIOW3peWFt+Wll+S7tuOAggoKIyMjIExpY2Vuc2UKCk1JVCDigJQg6KeBIFtMSUNFTlNFXShMSUNFTlNFKeOAggoKLS0tCgojIyBSZWxhdGVkCgotIPCfjJAgRXZvUGh5c2ljcyDkuLvnq5kgLyBQYXJlbnQgc2l0ZTogW0V2b1BoeXNpY3MvZXZvcGh5c2ljcy13ZWJzaXRlXShodHRwczovL2dpdGh1Yi5jb20vRXZvUGh5c2ljcy9ldm9waHlzaWNzLXdlYnNpdGUpCi0g8J+TpyDogZTns7sgLyBDb250YWN0OiBndUBldm9waHlzaWNzLmFpCi0gwqkgMjAyNiBHdVl1RW5naW5lZXIK
+# AI Content Automation
+
+> 一周社媒内容，机器替你写。 / A full week of social content, on autopilot.
+
+[![Live Site](https://img.shields.io/badge/Live-evophysics.ai%2Faica-7c3aed)](https://evophysics.ai/aica)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Stack](https://img.shields.io/badge/Stack-HTML%20%2B%20Vanilla%20CSS-orange)](#tech-stack)
+
+---
+
+## English
+
+### What is this?
+
+A single-page **landing site** for an AI-driven content automation service.
+The product itself is a subscription that delivers a full week of social media
+content (Twitter/X, LinkedIn, Instagram) every Monday morning — fully written,
+formatted, hashtagged, and ready to schedule.
+
+This repo contains only the marketing page. The actual content generation
+pipeline lives behind the scenes and is exposed to customers via email and
+WeChat after onboarding.
+
+### Features
+
+- **Weekly drop** — every Monday, a full week of posts lands in your inbox.
+- **Templated production** — content is generated from a curated prompt
+  template stack tuned per niche and voice, not generic AI slop.
+- **Cross-platform format** — Twitter/X, LinkedIn, and Instagram ready;
+  each post ships with hook, body, hashtags, and CTA.
+- **Built-in calendar** — delivered as a plain weekly calendar so you can
+  batch-schedule in 10 minutes.
+
+### Tech stack
+
+- **HTML5** — single file, semantic structure, no bundler.
+- **Vanilla CSS** — embedded `<style>` block, dark theme, no framework.
+- **No JavaScript** — static page, zero runtime dependencies.
+- **No build step** — what you see in `index.html` is what gets deployed.
+
+### Deployment
+
+- Hosted on **Cloudflare Pages**.
+- Direct upload from `main` branch; no CI required.
+- Custom domain points to a path under the EvoPhysics umbrella site.
+
+### Part of the EvoPhysics content matrix
+
+This landing page is a sub-product of the
+[EvoPhysics content platform](https://github.com/EvoPhysics/evophysics-website).
+It shares the design language and analytics stack with the parent site,
+and feeds qualified leads into the EvoPhysics tool suite.
+
+### License
+
+MIT — see [LICENSE](LICENSE).
+
+---
+
+## 中文
+
+### 这是什么？
+
+一个**单页落地站**，为 AI 内容自动化服务做销售转化。
+产品本体是一项订阅服务：每周一早上，自动把**一周的社媒内容**
+（Twitter/X、LinkedIn、Instagram）写好、格式化、配好 hashtag，
+直接送到用户邮箱。
+
+这个仓库只承载**销售页**。真正的内容生成流水线在后台，
+订阅用户通过邮件 + 微信 onboarding 接入，看不到代码。
+
+### 功能
+
+- **每周一投递** — 一觉醒来，一周 7 条内容已经在邮箱里。
+- **模板化生产** — 基于按行业 / 语调调过的 prompt 模板栈批量生成，
+  不是"通用 AI 口水文"。
+- **跨平台适配** — Twitter/X、LinkedIn、Instagram 一次给齐，
+  每条都带 hook、正文、hashtag、CTA。
+- **自带日历** — 以"周历"形式交付，10 分钟批量排程。
+
+### 技术栈
+
+- **HTML5** — 单文件，语义化结构，无打包工具。
+- **Vanilla CSS** — 内嵌 `<style>`，深色主题，无任何 CSS 框架。
+- **零 JavaScript** — 纯静态页，运行时零依赖。
+- **零构建步骤** — `index.html` 里写什么，部署出去就是什么。
+
+### 部署
+
+- 托管在 **Cloudflare Pages**。
+- 直接从 `main` 分支拉取，无需 CI。
+- 自定义域名指向 EvoPhysics 主站下的子路径。
+
+### 商业化定位
+
+本落地站是 [EvoPhysics 内容平台](https://github.com/EvoPhysics/evophysics-website)
+旗下**子产品**之一，与主站共用设计语言与数据埋点，
+并把高意向线索回流到 EvoPhysics 工具套件。
+
+### License
+
+MIT — 见 [LICENSE](LICENSE)。
+
+---
+
+## Related
+
+- 🌐 EvoPhysics 主站 / Parent site: [EvoPhysics/evophysics-website](https://github.com/EvoPhysics/evophysics-website)
+- 📧 联系 / Contact: gu@evophysics.ai
+- © 2026 GuYuEngineer
